@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+}
+
+.selections{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+
+}
+
+#results,
+#score{
+    text-align: center;
+    margin-bottom: 20px;
+}
